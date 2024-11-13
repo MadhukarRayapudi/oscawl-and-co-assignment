@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    background-color: #524f4d;
+}
+
+.navbar-heading{
+    font-family: breeserif;
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.logout-btn{
+    border-radius: 10px;
+    border: 0;
+    height: 40px;
+    padding: 8px;
+    font-family: "roboto";
+    font-weight: 500;
+}
